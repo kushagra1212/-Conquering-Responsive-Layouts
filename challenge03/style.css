@@ -11,6 +11,7 @@
 }
 .container-heading {
   width: 50%;
+  max-width: 786px;
   margin-left: 5%;
   padding: 5rem 0;
 }
